@@ -1,22 +1,21 @@
 
 
-# BUSMA
-### ms-auth
+# HLS
+### App that I use to make some test
 
 ## Description
 
-Here we describe busma app.
+
 
 ### Description service
 
-This is a microservice that is responsable to make authorization e give permissions to user, and all services into thenaplication
 
 ## Project setup
 
 ```bash
-$ git clone https://github.com/Ovonne-project/auth-ms-busma.git
+$ git clone https://github.com/aja-silason/hls-socket.git
 
-$ cd ./auth-ms-busma
+$ cd ./hls-socket
 
 $ npm install
 
@@ -26,13 +25,13 @@ $ npm install
 
 ```bash
 # development
-$ npm run auth
+$ npm run hls
 
 # watch mode
-$ npm run auth:dev
+$ npm run hls:dev
 
 # production mode
-$ npm run auth:prod
+$ npm run hls:prod
 ```
 
 ## Run tests
@@ -44,14 +43,13 @@ $ npm run test
 
 ```
 
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Anania Augusto](https://www.linkedin.com/in/anania-jaime-augusto)
+- Website - [https://ananiajaimeaugusto.vercel.app](https://ananiaaugusto.vercel.app/)
+
 
 ## License
 
-Alll right is reserved to Ovonne **@2025** 
+Alll right is reserved to Anania Augusto **@2025** 
